@@ -34201,8 +34201,8 @@ body {
     --theme-color: #e22454
 }
 
-.theme-color2 {
-    --theme-color: #FF9999
+.theme-color2 { 
+    --theme-color: #000000
 }
 
 .text-color {
@@ -37426,7 +37426,7 @@ footer .footer-links ul li {
 }
 
 .gradient-title {
-    background-image: linear-gradient(100deg, #3d3d3d, #f99);
+    background-image: linear-gradient(100deg, #3d3d3d, #00000);
     background-clip: text;
     -webkit-text-fill-color: transparent;
     display: inline-block;
@@ -50168,7 +50168,7 @@ header .top-header .border-list>li+li {
 
 .awesome .category-wrap.theme-bg-color {
     background-color: #e6eff8;
-    color: #f99
+    color: #00000
 }
 
 .awesome .category-wrap.theme-bg-color h2 {
@@ -50188,7 +50188,7 @@ header .top-header .border-list>li+li {
 }
 
 .awesome .service-content i {
-    color: #f99;
+    color: #00000;
     margin-bottom: 15px
 }
 
@@ -50280,7 +50280,7 @@ header .top-header .border-list>li+li {
 
 .trusted:after,
 .trusted:before {
-    background-image: linear-gradient(100deg, #3d3d3d, #f99);
+    background-image: linear-gradient(100deg, #3d3d3d, #00000);
     content: "";
     display: inline-block;
     height: 2px;
@@ -51116,7 +51116,7 @@ table.whishlist_data tr td a {
     display: block;
     width: 100px;
     height: 100px;
-    border-top: 4px solid #f99;
+    border-top: 4px solid #00000;
     border-radius: 50%;
     animation: 1.8s ease-in-out infinite loaderspin;
     -webkit-animation: 1.8s ease-in-out infinite loaderspin
